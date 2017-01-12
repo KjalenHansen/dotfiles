@@ -79,5 +79,5 @@ source $ZSH/oh-my-zsh.sh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 
-alias engage="play -n -c1 synth whitenoise band -n 100 20 band -n 50 20 gain +25  fade h 1 864000 1"
+alias engage="play -c2 -n synth whitenoise band -n 100 24 band -n 300 100 gain +20"
 DEFAULT_USER=kjalen
